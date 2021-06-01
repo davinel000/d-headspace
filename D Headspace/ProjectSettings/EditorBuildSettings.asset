@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Spaceflight Controls/Scenes/Example 1.unity
+    guid: e897aa91a21d9e7458b575f50589f41f
+  - enabled: 1
+    path: Assets/Spaceflight Controls/Scenes/Example 2.unity
+    guid: a10709abf575a3248a8c2ba2a2505407
+  - enabled: 1
+    path: Assets/Spaceflight Controls/Scenes/Example 3.unity
+    guid: c04f5e5092e5d9b41aca04c23241ee6f
+  - enabled: 1
+    path: Assets/Spaceflight Controls/Scenes/First Person Example.unity
+    guid: df0eeae173199904c8c0dc3853f303ce
   m_configObjects: {}
